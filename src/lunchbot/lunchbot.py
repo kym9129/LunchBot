@@ -50,7 +50,7 @@ for menu in menu_list:
 text_list_str = '\n'.join(text_list)
 
 
-# 메세지 바디 만들기
+# 메세지 바디 만들기 : https://app.slack.com/block-kit-builder/TVBAZBQJJ
 slack_body = {
 	"blocks": [
 		{
